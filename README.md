@@ -1,1 +1,1 @@
-*This is a README.md file for zero_day repository in git*
+*This file is mandatory in projects*
